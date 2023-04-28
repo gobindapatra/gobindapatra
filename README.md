@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gobindapatra](https://github.com/gobindapatra)
 
-- 📝 I regularly write articles on [Testing Activity](Testing Activity)
+- 📝 I regularly write articles on Testing Activity
 
 - 💬 Ask me about **Selenium,Appium,Cucumber**
 
