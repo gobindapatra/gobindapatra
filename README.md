@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Selenium,Appium,Cucumber**
 
-- 📫 How to reach me **gobindapatra123@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
